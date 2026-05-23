@@ -1,0 +1,7 @@
+{
+  "android": {
+    "minimumVersion": "1.0.0",
+    "forceUpdate": false,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.pilltaken.app"
+  }
+}
